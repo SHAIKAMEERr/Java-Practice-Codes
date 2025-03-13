@@ -1,30 +1,61 @@
-import java.util.Scanner;
-
-class ExceptionHandelling
+class OverFlowException extends Exception
 {
-    public static void main(String[] args)
+    @Override
+    public String toString()
     {
-        int[] arr={1,2,3,4,5,6,7,8,9,0};
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter Value of A : ");
-        int a=sc.nextInt();
-        System.out.println("enter Value of B : ");
-        int b=sc.nextInt();
-        try
+        return "Stack is already full";
+    }
+    @Override
+    public String getMessage()
+    {
+        return "Stack is full";
+    }
+}
+class UnderFlowException extends Exception
+{
+    @Override
+    public String toString()
+    {
+        return "Stack is Empty";
+    }
+    @Override
+    public String getMessage()
+    {
+        return "No element is present inside the stack";
+    }
+}
+class Stack
+{
+    int size;
+    int s[];
+    int top=-1;
+    Stack(int size)
+    {
+        this.size=size;
+        s=new int[size];
+    }
+    public void push(int n)throws OverFlowException
+    {
+        for(int i=0;i<s.length-1;i++)
         {
-            int c=a/b;
-            System.out.println("Division of "+a+" & "+b+" is : "+c);
-        }
-        catch(ArrayIndexOutOfBoundsException e)
-        {
-            int x=arr[12];
-            System.out.println(x);
-            System.out.println(e);
-        }
-        catch(ArithmeticException e)
-        {
-            System.out.println(e);
+            if(s[i]<s.length-1)
+            {
+                s[top]=n;
+                top++;
+            }
+            else
+                throw new OverFlowException();
         }
     }
-
+    public void pop()throws UnderFlowException
+    {
+        if(s[size-1]>=0)
+        {
+            s[size-1]=0;
+            s[size]--;
+        }
+        else
+            throw new UnderFlowException();
+    }
 }
+

@@ -1,3 +1,4 @@
+import java.util.List;
 import java.util.Scanner;
 public class Arrays {
     public static void main(String []args)
@@ -64,7 +65,7 @@ public class Arrays {
             for(int j=0;j<3;j++)
             {
                 c[i][j]=a[i][j]+b[i][j];
-               System.out.println(c[i][j]); 
+               System.out.print(c[i][j]+" "); 
             }
             System.out.println();
         }
@@ -74,7 +75,7 @@ public class Arrays {
             for(int j=0;j<3;j++)
             {
                 c[i][j]=a[i][j]-b[i][j];
-               System.out.println(c[i][j]); 
+               System.out.print(c[i][j]+" "); 
             }
             System.out.println();
         }
@@ -84,9 +85,19 @@ public class Arrays {
             for(int j=0;j<3;j++)
             {
                 c[i][j]=a[i][j]*b[i][j];
-               System.out.println(c[i][j]); 
+               System.out.print(c[i][j]+" "); 
             }
             System.out.println();
         }
+    }
+
+    public static char[] toString(int[] arr) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'toString'");
+    }
+
+    public static List<Integer> asList(int[] arr) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'asList'");
     }
 }

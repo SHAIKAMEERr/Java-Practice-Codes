@@ -1,0 +1,812 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PracticeProgramOne",
+            "request": "launch",
+            "mainClass": "PracticeProgramOne",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Patternsone",
+            "request": "launch",
+            "mainClass": "Patternsone",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Fibbo",
+            "request": "launch",
+            "mainClass": "Fibbo",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Gp",
+            "request": "launch",
+            "mainClass": "Gp",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Arithematicprogression",
+            "request": "launch",
+            "mainClass": "Arithematicprogression",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "ArithematicProgression",
+            "request": "launch",
+            "mainClass": "ArithematicProgression",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumber",
+            "request": "launch",
+            "mainClass": "PerfectNumber",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Neon",
+            "request": "launch",
+            "mainClass": "Neon",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "NumberinWords",
+            "request": "launch",
+            "mainClass": "NumberinWords",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "PracticeLoops",
+            "request": "launch",
+            "mainClass": "PracticeLoops",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "DayNumber",
+            "request": "launch",
+            "mainClass": "DayNumber",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Typeofwebsite",
+            "request": "launch",
+            "mainClass": "Typeofwebsite",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Practicesix",
+            "request": "launch",
+            "mainClass": "Practicesix",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Practicefive",
+            "request": "launch",
+            "mainClass": "Practicefive",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Stringfun",
+            "request": "launch",
+            "mainClass": "Stringfun",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Printingone",
+            "request": "launch",
+            "mainClass": "Printingone",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Practicefour",
+            "request": "launch",
+            "mainClass": "Practicefour",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Practicethree",
+            "request": "launch",
+            "mainClass": "Practicethree",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Practiceone",
+            "request": "launch",
+            "mainClass": "Practiceone",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Valu",
+            "request": "launch",
+            "mainClass": "Valu",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Allah",
+            "request": "launch",
+            "mainClass": "Allah",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Greet",
+            "request": "launch",
+            "mainClass": "Greet",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Ab",
+            "request": "launch",
+            "mainClass": "Ab",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Hq",
+            "request": "launch",
+            "mainClass": "Hq",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork2",
+            "request": "launch",
+            "mainClass": "HomeWork2",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork1",
+            "request": "launch",
+            "mainClass": "HomeWork1",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork",
+            "request": "launch",
+            "mainClass": "HomeWork",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Printing",
+            "request": "launch",
+            "mainClass": "Printing",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Widening",
+            "request": "launch",
+            "mainClass": "Widening",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "BitMasking",
+            "request": "launch",
+            "mainClass": "BitMasking",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHoneI",
+            "request": "launch",
+            "mainClass": "CHoneI",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHoneH",
+            "request": "launch",
+            "mainClass": "CHoneH",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHoneG",
+            "request": "launch",
+            "mainClass": "CHoneG",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHoneF",
+            "request": "launch",
+            "mainClass": "CHoneF",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHoneE",
+            "request": "launch",
+            "mainClass": "CHoneE",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "ChoneD",
+            "request": "launch",
+            "mainClass": "ChoneD",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Javaa",
+            "request": "launch",
+            "mainClass": "Javaa",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHoneC",
+            "request": "launch",
+            "mainClass": "CHoneC",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHoneB",
+            "request": "launch",
+            "mainClass": "CHoneB",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHoneA",
+            "request": "launch",
+            "mainClass": "CHoneA",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "CHone",
+            "request": "launch",
+            "mainClass": "CHone",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Java1",
+            "request": "launch",
+            "mainClass": "Java1",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "DigitsOfNumber",
+            "request": "launch",
+            "mainClass": "DigitsOfNumber",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNumbers",
+            "request": "launch",
+            "mainClass": "SumOfNumbers",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "SwitchFour",
+            "request": "launch",
+            "mainClass": "SwitchFour",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "SwitchThree",
+            "request": "launch",
+            "mainClass": "SwitchThree",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "SwitchTwo",
+            "request": "launch",
+            "mainClass": "SwitchTwo",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "SwitchOne",
+            "request": "launch",
+            "mainClass": "SwitchOne",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Arrayone",
+            "request": "launch",
+            "mainClass": "Arrayone",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperators",
+            "request": "launch",
+            "mainClass": "BitwiseOperators",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Calc",
+            "request": "launch",
+            "mainClass": "Calc",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Clearbit",
+            "request": "launch",
+            "mainClass": "Clearbit",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Conversion",
+            "request": "launch",
+            "mainClass": "Conversion",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Cuboid",
+            "request": "launch",
+            "mainClass": "Cuboid",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "DateFun",
+            "request": "launch",
+            "mainClass": "DateFun",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Day1",
+            "request": "launch",
+            "mainClass": "Day1",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Dayone",
+            "request": "launch",
+            "mainClass": "Dayone",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Daytwo",
+            "request": "launch",
+            "mainClass": "Daytwo",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Fileop",
+            "request": "launch",
+            "mainClass": "Fileop",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Flag",
+            "request": "launch",
+            "mainClass": "Flag",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Formatting",
+            "request": "launch",
+            "mainClass": "Formatting",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "HexaOrNot",
+            "request": "launch",
+            "mainClass": "HexaOrNot",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Hexadecimal",
+            "request": "launch",
+            "mainClass": "Hexadecimal",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Ifcondition",
+            "request": "launch",
+            "mainClass": "Ifcondition",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Lengthsofdatatypes",
+            "request": "launch",
+            "mainClass": "Lengthsofdatatypes",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Masking",
+            "request": "launch",
+            "mainClass": "Masking",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "MathFun",
+            "request": "launch",
+            "mainClass": "MathFun",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "MetaCharacters",
+            "request": "launch",
+            "mainClass": "MetaCharacters",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Nameofday",
+            "request": "launch",
+            "mainClass": "Nameofday",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Narrowing",
+            "request": "launch",
+            "mainClass": "Narrowing",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Numberop",
+            "request": "launch",
+            "mainClass": "Numberop",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "OddOrEven",
+            "request": "launch",
+            "mainClass": "OddOrEven",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Operations",
+            "request": "launch",
+            "mainClass": "Operations",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Pasical",
+            "request": "launch",
+            "mainClass": "Pasical",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Quadratic",
+            "request": "launch",
+            "mainClass": "Quadratic",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Radix",
+            "request": "launch",
+            "mainClass": "Radix",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "RegularExp2",
+            "request": "launch",
+            "mainClass": "RegularExp2",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "RegularExpressions",
+            "request": "launch",
+            "mainClass": "RegularExpressions",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "RegxFun",
+            "request": "launch",
+            "mainClass": "RegxFun",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Setbit",
+            "request": "launch",
+            "mainClass": "Setbit",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "SizeofDatatypes",
+            "request": "launch",
+            "mainClass": "SizeofDatatypes",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "StudentChallange",
+            "request": "launch",
+            "mainClass": "StudentChallange",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "StudentGrades",
+            "request": "launch",
+            "mainClass": "StudentGrades",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Swapping",
+            "request": "launch",
+            "mainClass": "Swapping",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "SwitchCase",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "TypeOfWebsite",
+            "request": "launch",
+            "mainClass": "TypeOfWebsite",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Updateoperation",
+            "request": "launch",
+            "mainClass": "Updateoperation",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "arrayfun",
+            "request": "launch",
+            "mainClass": "arrayfun",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "JavaPrograms_aeb38189"
+        },
+        {
+            "type": "java",
+            "name": "youngOrNot",
+            "request": "launch",
+            "mainClass": "youngOrNot",
+            "projectName": "JavaPrograms_aeb38189"
+        }
+    ]
+}

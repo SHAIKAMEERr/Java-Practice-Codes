@@ -1,0 +1,20 @@
+1.	Create a Stack and do the following operations.
+a. Push b. Pop c. Peep
+2.	Create a queue and do the following operations.
+a. Add b. Delete c. Display
+3.	
+Implement all the operations using singly linked list
+4.	Write a python program to convert from infix to postfix expression.
+5.	Write a python program to implement 
+Merge sort(50M)
+6.	Write a python programs to implement 
+Quick sort(50M)
+7.	Implement the following searching techniques using recursive & non-recursive functions.
+a. Linear search b. Binary search c.
+8.	Write a python program to implement 
+(i). Insertion sort
+(ii). Bubble sort
+9.	Write python program to find minimum spanning tree using
+a)	a. Prim’s method b. Kruskal’s method.
+10.	Write a python program on Tree Traversal
+a. Pre order b. In order c. Post order

@@ -1,0 +1,59 @@
+/* About Me Section Styling */
+.about-me {
+  padding: 5rem 2rem; /* Adjust padding as needed */
+  color: white; /* Inherit white color from body */
+  display: flex; /* Make it a flexbox container */
+  flex-direction: row; /* Arrange elements side-by-side */
+  align-items: center; /* Vertically center elements */
+}
+
+.about-me-image {
+  width: 200px; /* Adjust image width as needed */
+  height: 200px; /* Adjust image height as needed */
+  border-radius: 50%; /* Make image circular */
+  margin-right: 3rem; /* Add margin between image and text */
+}
+
+.about-me-content {
+  flex: 1; /* Allow content to fill remaining space */
+}
+
+.about-me h2 {
+  font-family: 'Montserrat', sans-serif; /* Use Montserrat font */
+  font-size: 2.5rem; /* Adjust heading size as needed */
+  margin-bottom: 1rem;
+}
+
+.about-me-summary {
+  font-family: 'Encode Sans', sans-serif; /* Use Encode Sans font */
+  font-size: 1.2rem; /* Adjust paragraph size as needed */
+  line-height: 1.5; /* Adjust line spacing as needed */
+  margin-bottom: 1rem;
+}
+
+.about-me-skills {
+  font-family: 'Encode Sans', sans-serif; /* Use Encode Sans font */
+  font-size: 1rem; /* Adjust skill text size as needed */
+  margin-bottom: 1rem;
+  list-style: none; /* Remove default bullet points */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+
+.about-me-skills li {
+  display: flex; /* Make skills a flexbox container */
+  align-items: center; /* Vertically center skill text and icon */
+  margin-bottom: 0.5rem; /* Adjust spacing between skills */
+}
+
+.skill-icon {
+  width: 25px; /* Adjust icon size as needed */
+  height: 25px; /* Adjust icon size as needed */
+  margin-right: 1rem; /* Add margin between icon and text */
+}
+
+/* Optional: Highlight on hover effect */
+.about-me-skills li:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* Add a subtle white highlight on hover */
+  cursor: default; /* Remove pointer cursor */
+}

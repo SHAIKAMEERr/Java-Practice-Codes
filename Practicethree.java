@@ -4,35 +4,28 @@ class Practicethree
     public static void main(String []args)
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the No.of the month : ");
-        int month=sc.nextInt();
-        switch(month)
+       /*  System.out.println("Enter first term :");
+        int a=sc.nextInt();
+        System.out.println("enter the difference term :");
+        int d=sc.nextInt();
+        System.out.println("Enter the no of terms do you want :");
+        int n=sc.nextInt();
+        for(int i=0;i<n;i++)
         {
-            case 1:System.out.println("January");
-            break;
-            case 2:System.out.println("February");
-            break;
-            case 3:System.out.println("March");
-            break;
-            case 4:System.out.println("April");
-            break;
-            case 5:System.out.println("May");
-            break;
-            case 6:System.out.println("June");
-            break;
-            case 7:System.out.println("Julay");
-            break;
-            case 8:System.out.println("August");
-            break;
-            case 9:System.out.println("September");
-            break;
-            case 10:System.out.println("October");
-            break;
-            case 11:System.out.println("November");
-            break;
-            case 12:System.out.println("December");
-            break;
-            default:System.out.println("You entered wrong input");
+            System.out.print(a+" ");
+            a=a*d;
+        }*/
+
+        System.out.println("Enter no of terms :");
+        int n=sc.nextInt();
+        int a=0,b=1;
+        for(int i=0;i<=n;i++)
+        {
+            int c=a+b;
+            System.out.println(c);
+            a=b;
+           b=c;
+
         }
         
     }
